@@ -1,0 +1,56 @@
+/*var a: Int = 0
+var b: Int = 1
+var c: Int = 0
+var n: Int = 9
+print("\(a) \(b)", terminator)
+for in 3...n
+{
+    c=a+b
+    print("\(c)",terminator)
+    a=b
+    b=c
+    c=0
+}*/
+    
+
+
+
+
+
+
+
+/*var str: String = "karthik"
+str = str.lowerCased()
+var ch1,ch2,ch3: Character
+ch3 = "\0"
+var Count: Int = 0
+for ch in str
+{
+    for ch2 in str
+    {
+        if ch1==ch2
+        {
+            count+=1
+        }
+        if Count = 2
+        {
+            ch3=ch1
+            break
+        }
+        if count =2
+        {
+            break
+        }
+        else
+        {
+            count = 0
+        }
+        if count==2
+        {
+            print("first reccuring character is \(ch3)")
+        }
+        else
+        {
+            print("no character has reccured")
+        }*/
+
