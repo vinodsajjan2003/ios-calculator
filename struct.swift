@@ -1,4 +1,4 @@
-func drive(){
+/*func drive(){
         print("The \(year) \(make) \(model) is moving")
     }
     func park(){
@@ -40,7 +40,7 @@ print(currentTemperature.fahrenheit)
  print(currentTemperature.kelvin)*/
 
 
-struct Temperature {
+/*struct Temperature {
     var celsius:  = Double
     init(celsius: Double){
         self.celsius = celsius
@@ -57,7 +57,7 @@ print(currentTemperature.celsius)
 print(boiling.celsiu)
 if let str=readLine(){
     print(str)
-}
+}*/
 
 
 
@@ -70,4 +70,21 @@ if let str=readLine(){
  
  func startEngine() {
  print("The \(year) \(make) \(model) engine has started")*/
+
+
+
+
+
+
+/*class Car: vehicle {
+    var gear = 1
+    override var description: String {
+        super.description + " in gear \(gear)"
+    }
+}
+let car = Car()
+car.currentSpeed = 25
+car.gear = 3
+print("Car: \(car.description)")*/
+
 
